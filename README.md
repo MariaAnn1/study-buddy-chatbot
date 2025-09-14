@@ -25,7 +25,6 @@ You can access the chatbot at the following link:
 1. Create an account on [Poe](https://poe.com/).
 2. Search for "Weiiiii" or use the shared link.
 3. Interact by asking study-related questions.
-4. You can also create your own version using Poe's chat template feature.
 
 ## 📌 Features
 
